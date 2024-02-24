@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryServiceAsp", "RepositoryServiceAsp\RepositoryServiceAsp.csproj", "{62665548-8C11-4B47-9016-673CB6136253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62665548-8C11-4B47-9016-673CB6136253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62665548-8C11-4B47-9016-673CB6136253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62665548-8C11-4B47-9016-673CB6136253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62665548-8C11-4B47-9016-673CB6136253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8AA89AD-5209-4A19-92E9-4783BF5D1A73}
+	EndGlobalSection
+EndGlobal
